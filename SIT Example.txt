@@ -3,3 +3,9 @@ Clone Git to Desktop
 Step 2
 Modify Files to hearts desire
 Step 3
+<<<<<<< HEAD
+=======
+git commit -m "Updating SIT Example"
+Step sas
+TEst
+>>>>>>> e739fcbcb03ba83cf45254a5131cc33ebf76941b
